@@ -1,11 +1,12 @@
-#  Product Catalog -- Flutter Mobile Application
+#  Product Catalog ( Flutter Mobile Application )
 
 
 <p align="center">
-  <img src="screenshots/light_list.png" width="200"/>
-  <img src="screenshots/light_grid.png" width="200"/>
-  <img src="screenshots/light_detail.png" width="200"/>
-  <img src="screenshots/dark_home.png" width="200"/>
+  <img src="screenshots/Light_Home_Screen.png" width="200"/>
+  <img src="screenshots/Light_details_screen.png" width="200"/>
+  <img src="screenshots/Dark_Home_Screen.png" width="200"/>
+  <img src="screenshots/Dark_Details_Screen.png" width="200"/>
+  <img src="screenshots/Dark_Favorites_Screen.png" width="200"/>
 </p>
 
 <p align="center">
